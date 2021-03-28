@@ -8,3 +8,10 @@ min-height: 7rem;
   justify-content: flex-start;
   align-items: center;
 }
+
+.changed{
+  margin:10rem;
+}
+input{
+  margin-bottom: 5rem;
+}
